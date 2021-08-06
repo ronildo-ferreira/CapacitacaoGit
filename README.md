@@ -2,4 +2,5 @@
 
 Capacitação promovida pela Cetec Capacitações - Centro Paula Souza
 
-Realizado em Agosto/2021
+Realização: Agosto/2021
+
